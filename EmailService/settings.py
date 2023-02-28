@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-8$eaiz_i$ufd)#s5cf37-b=8l1ncotaraes!bg0+sb&urov61)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['student-fund-receipt.onrender.com']
 
 
 # Application definition
